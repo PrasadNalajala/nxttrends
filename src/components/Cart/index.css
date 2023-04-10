@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+
+.products {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 15%;
+}
+.cartImg {
+  height: 300px;
+}
